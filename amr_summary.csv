@@ -1,0 +1,5 @@
+Isolate,Organism,Country,AMR_Gene,Length_bp
+KP_ZW_001,Klebsiella pneumoniae,Zimbabwe,blaNDM-1,89
+KP_SA_002,Klebsiella pneumoniae,South Africa,blaKPC-2,90
+EC_ZW_003,Escherichia coli,Zimbabwe,blaCTX-M-15,90
+EC_ZM_004,Escherichia coli,Zambia,mcr-1,90
